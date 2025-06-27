@@ -73,6 +73,6 @@ Uso de IA para processamento de linguagem natural.
 
 🌐 Autor
 
-Projeto desenvolvido por mim. Se gostou, deixe uma estrela no repositório! ⭐
+Programa desenvolvido por mim. Se gostou, deixe uma estrela no repositório! ⭐
 
 
